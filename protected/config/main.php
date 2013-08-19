@@ -63,10 +63,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=store',
+			'connectionString' => 'mysql:host=127.0.0.1;dbname=store',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => '',
+			'password' => 'rangde123',
 			'charset' => 'utf8',
 		),
 	

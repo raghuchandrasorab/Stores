@@ -344,6 +344,7 @@
     }
     .row-fluid .offset3:first-child {
         margin-left: 25.641025641025642%;
+        box-shadow: 5px 10px 10px 5px#888;
         *margin-left: 25.53464266230224%;
     }
     .row-fluid .offset2 {

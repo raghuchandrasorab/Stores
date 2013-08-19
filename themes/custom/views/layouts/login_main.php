@@ -25,7 +25,9 @@
     <link rel="shortcut icon" href="<?php echo Yii::app()->params['location']; ?>logos/favicon.png" type="image/x-icon" />
     
     <title><?php echo CHtml::encode($this->pageTitle); ?></title>
-
+	<div style="font-family:verdana;padding:20px;border-radius:10px;border:10px solid #ABABAB;text-align: center;">
+	<h3>CornApps</h3>
+	</div>
 </head>
 <body>
 
@@ -41,7 +43,7 @@
 	<div id="footer">
 	  	<div class="container-fluid">
 		 	<p style="text-align: center;">
-			 	<a href="<?php echo Yii::app()->params['root'];?>/site/page/view/about">Footer</a>
+			 	<a href="<?php echo Yii::app()->params['root'];?>/site/page/view/about">www.cornapps.com</a>
 			</p>	  
 		</div>
 	</div>

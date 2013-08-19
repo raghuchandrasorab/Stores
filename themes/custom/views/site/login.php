@@ -19,7 +19,7 @@
 		)); ?>
 		 
 		<fieldset>
-			<legend>Login</legend>
+			<legend>ನಮಸ್ಕಾರ!!</legend>
 			<?php echo $form->textFieldRow($model, 'username', array('class'=>'span8')); ?>
 			<?php echo $form->passwordFieldRow($model, 'password', array('class'=>'span8')); ?>
 		</fieldset>		
